@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bd56bc6-a579-4a2c-af4c-45d8884aa9e7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2f8uXQmJbyYJTDegb3Zo9xrBXfO" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LooseCouplingExample.executor": "Run",
+    "Application.TightCouplingExample.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Programming Language/Java/Learn Java And Spring/spring-start-here/1.the spring context-defining beans/using-bean-annotation"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming Language\Java\Learn Java And Spring\Spring Framework\spring core\SpringExample\src\main\resources" />
+      <recent name="D:\Programming Language\Java\Learn Java And Spring\Spring Framework\spring core\SpringExample\src\main\java\com\ioc\loose\coupling" />
+      <recent name="D:\Programming Language\Java\Learn Java And Spring\Spring Framework\spring core\SpringExample\src\main\java" />
+      <recent name="C:\Users\FAISAL\Desktop\courses\sbfs\SpringExample\src\main\java\com\loose\coupling" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.example.componentscan.annotation.Main">
+    <configuration name="car.example.constructor.injection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car.example.constructor.injection.Main" />
+      <module name="SpringExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.example.constructor.injection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="car.example.setter.injection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car.example.setter.injection.Main" />
+      <module name="SpringExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.example.setter.injection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.autowire.name.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.autowire.name.Main" />
+      <module name="SpringExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.autowire.name.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.componentscan.annotation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.componentscan.annotation.Main" />
+      <module name="SpringExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.componentscan.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ioc.loose.coupling.LooseCouplingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ioc.loose.coupling.LooseCouplingExample" />
+      <module name="SpringExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioc.loose.coupling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.example.componentscan.annotation.Main" />
+        <item itemvalue="Application.com.example.autowire.name.Main" />
+        <item itemvalue="Application.com.ioc.loose.coupling.LooseCouplingExample" />
+        <item itemvalue="Application.car.example.setter.injection.Main" />
+        <item itemvalue="Application.car.example.constructor.injection.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd56bc6-a579-4a2c-af4c-45d8884aa9e7" name="Changes" comment="" />
+      <created>1713195066225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713195066225</updated>
+    </task>
+    <servers />
+  </component>
+</project>
